@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - tom/github-actions
+      - wei/github-actions
 
 jobs:
   deploy:
